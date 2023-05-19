@@ -1,0 +1,27 @@
+name: beluga
+channels:
+- huggingface
+- pytorch
+- fastchan
+- conda-forge
+- defaults
+
+dependencies:
+- python=3.9.5
+- jupyter
+- ipykernel
+- pandas
+- transformers
+- pytorch 
+- torchvision 
+- torchaudio 
+- cudatoolkit=11.3
+- fastai
+- scikit-learn
+- pip
+- pip:
+  - spacy[cuda113]
+  - checklist
+  - datasets
+  - ray[tune]
+  - seaborn
