@@ -1,6 +1,6 @@
 # Cross-functional Analysis of Generalisation in Behavioural Learning
 
-This repo holds source code for the paper ["Cross-functional Analysis of Generalization in Behavioral Learning "](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00590/117216/Cross-functional-Analysis-of-Generalization-in), published in the Transactions of the Association for Computational Linguistics (TACL).
+This repo holds source code for the paper ["Cross-functional Analysis of Generalization in Behavioral Learning"](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00590/117216/Cross-functional-Analysis-of-Generalization-in), published in the Transactions of the Association for Computational Linguistics (TACL).
 
 ```
 @article{10.1162/tacl_a_00590,
