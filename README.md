@@ -1,10 +1,23 @@
 # Cross-functional Analysis of Generalisation in Behavioural Learning
 
-This repo holds source code for the paper ["Cross-functional Analysis of Generalisation in Behavioural Learning"](http://arxiv.org/abs/2305.12951), to be published in the Transactions of the Association for Computational Linguistics (TACL).
+This repo holds source code for the paper ["Cross-functional Analysis of Generalization in Behavioral Learning "](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00590/117216/Cross-functional-Analysis-of-Generalization-in), published in the Transactions of the Association for Computational Linguistics (TACL).
 
-<!-- ## Citation
+```
+@article{10.1162/tacl_a_00590,
+    author = {Luz de Araujo, Pedro Henrique and Roth, Benjamin},
+    title = "{Cross-functional Analysis of Generalization in Behavioral Learning}",
+    journal = {Transactions of the Association for Computational Linguistics},
+    volume = {11},
+    pages = {1066-1081},
+    year = {2023},
+    month = {08},
+    issn = {2307-387X},
+    doi = {10.1162/tacl_a_00590},
+    url = {https://doi.org/10.1162/tacl_a_00590},
+    eprint = {https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl_a_00590/2154470/tacl_a_00590.pdf},
+}
+```
 
-If you use the code or data from this repository, please consider citing the paper: -->
 ## Requirement
 
 - [Anaconda](https://www.anaconda.com/download)
